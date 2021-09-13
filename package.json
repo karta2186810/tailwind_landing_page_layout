@@ -1,0 +1,23 @@
+{
+  "name": "tailwind_lading_page_layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karta2186810/tailwind_landing_page_layout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karta2186810/tailwind_landing_page_layout/issues"
+  },
+  "homepage": "https://github.com/karta2186810/tailwind_landing_page_layout#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.15"
+  }
+}
